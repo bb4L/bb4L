@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋  :sunglasses:
+
+I love trying out new languages / new technologies.
 
 <!--
 **bb4L/bb4L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
