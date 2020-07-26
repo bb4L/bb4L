@@ -2,7 +2,7 @@
 
 I love trying out new languages / new technologies.
 
-## Currently i'm learning:
+## Currently i'm learning
 
 <code><img src="https://developer.asustor.com/uploadIcons/0020_23588_1502035858_icon256.png" alt="golang" height=100></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo9lH8GI51HNmgmVbVUithXiW4mkQ8L27g5vGpa_OGOUrumLys&s" alt="nim" height=100></code>
