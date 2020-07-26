@@ -14,6 +14,10 @@ I love trying out new languages / new technologies.
 <code><img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/644d2f15-c5db-4731-a353-ace6235841fa-registry.png" alt="docker" height=100></code>
 <code><img src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" alt="kubernetes" height=100></code>
 
+## Where i'm "active"
+* [stackoverflow](https://stackoverflow.com/users/13168118/bb4l)
+* [exercism](https://exercism.io/profiles/bb4L)
+
 
 ## GitHub stats 
 <a href="https://github.com/anuraghazra/github-readme-stats">
