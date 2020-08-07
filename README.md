@@ -10,7 +10,10 @@ I love trying out new languages / new technologies.
 ## What i "know"
 <code><img src="https://cdn.iconscout.com/icon/free/png-256/python-20-1175115.png" alt="python" height=100></code>
 <code><img src="https://miro.medium.com/max/1200/0*5Cke19b5MtU2WL5i.png" alt="django" height=100></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqYJUcnI6iEzEQCM2YenGwZNhC75CKgQa8gQ&usqp=CAU" alt="pandas" height=100></code>
+<code><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" height=100></code>
 <code><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/377/square_256/typescriptlang.png" alt="typescript" height=100></code>
+<code><img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="javascript" height=100></code>
 <code><img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/644d2f15-c5db-4731-a353-ace6235841fa-registry.png" alt="docker" height=100></code>
 <code><img src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" alt="kubernetes" height=100></code>
 
