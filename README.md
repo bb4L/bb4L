@@ -14,6 +14,7 @@ I love trying out new languages / new technologies.
 <code><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" height=100></code>
 <code><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/377/square_256/typescriptlang.png" alt="typescript" height=100></code>
 <code><img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="javascript" height=100></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="java" height=100></code>
 <code><img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/644d2f15-c5db-4731-a353-ace6235841fa-registry.png" alt="docker" height=100></code>
 <code><img src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" alt="kubernetes" height=100></code>
 
